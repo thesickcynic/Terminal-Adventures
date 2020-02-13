@@ -1,7 +1,7 @@
 # Terminal-Adventures
 >A collection of snippets documenting my quest to never leave the terminal.
 
-##My Setup
+## My Setup
 
 ![Screenshot of my Terminal](https://github.com/thesickcynic/Terminal-Adventures/blob/master/MyTerminal.png)
 
