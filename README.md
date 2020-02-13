@@ -7,7 +7,7 @@
 
 I use Zsh as my shell, for reasons listed [here](https://blog.jez.io/why-zsh/) and elsewhere. I use it in conjunction with the [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)  framework to manage my configuration, and general quality of life purposes.
 
-I use [Yakuake](https://kde.org/applications/system/org.kde.yakuake) as my terminal emulator. It's primary schtick is that it's a [Quake](https://en.wikipedia.org/wiki/Quake_\(video_game\)) style drop down terminal emulator, based on [KDE Konsole](https://github.com/KDE/konsole).
+I use [Yakuake](https://kde.org/applications/system/org.kde.yakuake) as my terminal emulator. Its primary schtick is that it's a [Quake](https://en.wikipedia.org/wiki/Quake_\(video_game\)) style drop down terminal emulator, based on [KDE Konsole](https://github.com/KDE/konsole).
 
 You hit a keyboard shortcut, and the terminal rolls down from the top of the screen, over your current window. Hit the shortcut again, and it disappears. Yakuake stays in memory, so the state of your terminal persists.
 
